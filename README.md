@@ -1,6 +1,10 @@
 # HOW RUN BOT IN TERMUX 
 ## INSTALASION PKG
 **COPY THIS COMMAND 👇** 
+Give permission to your Android storage
+```sh
+termux-setup-storage
+```
 1. UPDATE AND UPGRADE PKG TERMUX
 ```sh
 pkg update -y && pkg upgrade -y
