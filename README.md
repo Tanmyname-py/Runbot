@@ -33,3 +33,37 @@ pkg install libwebp -y
 ```
 pip install yt-dlp
 ```
+9. INSTALL YARN (OPSIONAL)
+```sh
+pkg install yarn
+```
+### HOW TO RUN 
+1. Go to the dir the bot file in the SIM. You can change the name on the dir download adjust the file sc bot where you saved 
+```sh
+cd /sdcard/Download
+```
+3. Copy and move files to Dir Home on Termux
+```sh
+cp -r GOS.zip $HOME
+```
+4. Go to Dir Home in Termux
+```
+cd $HOME
+```
+5. Ekstrak file
+```
+unzip GOS.zip
+```
+6. move to the extract directory
+```sh
+cd GOS
+```
+7. Install library 
+```sh
+npm install 
+```
+8. If install succees run bot
+```sh
+npm start
+```
+**Enter your number according to your country number and WhatsApp bots ready for use** 
