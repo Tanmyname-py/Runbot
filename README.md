@@ -29,7 +29,7 @@ pkg install imagemagick -y
 ```sh
 pkg install libwebp -y
 ```
-8. INSTALL YTDLP MODUL PIP
+8. INSTALL YTDLP MODUL PIP (RECOMENDED FOR SC GOS)
 ```
 pip install yt-dlp
 ```
