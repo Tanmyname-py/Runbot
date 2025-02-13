@@ -1,5 +1,5 @@
 # HOW RUN BOT IN TERMUX 
 **COPY THIS COMMAND 👇** 
-```sh
+```bash
 pkg update && pkg upgrade 
 ```
