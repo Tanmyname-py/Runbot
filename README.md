@@ -25,7 +25,11 @@ pkg install ffmpeg -y
 ```sh
 pkg install imagemagick -y
 ```
-7. INSTALL YTDLP MODUL PIP
+7. INSTALL LIBWEBP
+```sh
+pkg install libwebp -y
+```
+8. INSTALL YTDLP MODUL PIP
 ```
 pip install yt-dlp
 ```
